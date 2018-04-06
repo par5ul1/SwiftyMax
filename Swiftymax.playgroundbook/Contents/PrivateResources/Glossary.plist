@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>algorithm</key>
+		<dict>
+			<key>Definition</key>
+			<string>A step-by-step procedure for solving a problem or accomplishing some end especially by a computer.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/Page1.playgroundpage</string>
+				<key>Title</key>
+				<string>Algorithm</string>
+			</dict>
+		</dict>
+		<key>computation</key>
+		<dict>
+			<key>Definition</key>
+			<string>Another word for calculation</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/Page1.playgroundpage</string>
+				<key>Title</key>
+				<string>Computation</string>
+			</dict>
+		</dict>
+		<key>depth</key>
+		<dict>
+			<key>Definition</key>
+			<string>In Minimax, depth is how you can make the AI less intelligent. You limit the amount of recursions so that the AI stops being perfect.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/Page3.playgroundpage</string>
+				<key>Title</key>
+				<string>Depth</string>
+			</dict>
+		</dict>
+		<key>full tree</key>
+		<dict>
+			<key>Definition</key>
+			<string>![tree](tree.png)</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/Page3.playgroundpage</string>
+				<key>Title</key>
+				<string>Depth</string>
+			</dict>
+		</dict>
+		<key>terminal state</key>
+		<dict>
+			<key>Definition</key>
+			<string>The state at which the game has ended. i.e Someone has won.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/Page2.playgroundpage</string>
+				<key>Title</key>
+				<string>Terminal State</string>
+			</dict>
+		</dict>
+		<key>zero-sum</key>
+		<dict>
+			<key>Definition</key>
+			<string>A situation in which one person or group can win something only by causing another person or group to lose it.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1.playgroundchapter/Page2.playgroundpage</string>
+				<key>Title</key>
+				<string>Zero-Sum Game</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
